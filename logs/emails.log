@@ -1,0 +1,15 @@
+[2025-12-29 14:46:22] To: nishantpoudel36@gmail.com
+Subject: Test email from Shop Billing System
+Body:
+This is a test email sent at 2025-12-29 14:46:20
+----
+[2025-12-29 14:48:22] To: nishantpoudel36@gmail.com
+Subject: Test email from Shop Billing System
+Body:
+This is a test email sent at 2025-12-29 14:48:20
+----
+[2026-02-15 13:58:17] To: sunsine12@gmail.com
+Subject: Verify your account
+Body:
+Hi Sunshine fashion,<br>Please verify your account by clicking the following link: <a href='http://localhost/final/verify.php?token=c980f4ff7d0d6f93911b7c5f03c1be06'>Verify Email</a><br>This link expires in 24 hours.
+----
