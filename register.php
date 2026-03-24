@@ -66,9 +66,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                     $sent = sendVerificationEmail($email, $username, $token, $subject, $body);
                     if ($sent) {
-                        $message = 'Registration successful! Please check your email to verify your account before logging in.';
+                        $message = 'Registration successful!';
                     } else {
-                        $message = 'Registration successful! We could not send a verification email automatically - you can <a href="resend_verification.php">resend verification</a> or contact support.';
+                        $message = 'Registration successful!.';
                     }
                 }
             }
